@@ -11,7 +11,7 @@ I am a recent Vassar College graduate with a background in mathematics, statisti
 
 My projects span predictive modeling, time-series analysis, and data visualization. I am especially interested in applying analytical tools to business decisions and real-world challenges.
 
-[GitHub](https://github.com/smaronschaeffer.github.io) · [LinkedIn](https://www.linkedin.com/in/sophia-maron-schaeffer/) · [Email](mailto:sophia.ems25@gmail.com)
+[GitHub](https://github.com/smaronschaeffer/smaronschaeffer.github.io) · [LinkedIn](https://www.linkedin.com/in/sophia-maron-schaeffer/) · [Email](mailto:sophia.ems25@gmail.com)
 
 ---
 
