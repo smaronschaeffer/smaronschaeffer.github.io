@@ -35,8 +35,7 @@ Analyzed campus electricity consumption, demand, and emissions for a sustainabil
 
 **What this demonstrates:** Working with imperfect data, investigating underlying causes, and translating analysis into operational recommendations.
 
-[View project and findings →](https://github.com/301-CCC/projects-vassar-sustainability-office))
-)
+[View project and findings →](https://github.com/301-CCC/projects-vassar-sustainability-office)
 
 ---
 
