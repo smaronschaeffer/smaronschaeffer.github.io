@@ -27,7 +27,7 @@ Developed a machine-learning project to predict pitcher performance using histor
 
 [View project and code →](projects/baseball-analytics)
 
-### Campus Electricity Analytics
+### Vassar College Electricity Analytics - Spring 2026
 
 **R · Time-Series Analysis · Data Visualization**
 
@@ -35,7 +35,8 @@ Analyzed campus electricity consumption, demand, and emissions for a sustainabil
 
 **What this demonstrates:** Working with imperfect data, investigating underlying causes, and translating analysis into operational recommendations.
 
-[View project and findings →](projects/sustainability-analytics)
+[View project and findings →](projects/projects-vassar-sustainability-office)
+)
 
 ---
 
