@@ -1,6 +1,6 @@
 
 ---
-title: Home
+Home Page
 ---
 
 # Sophia Maron Schaeffer
